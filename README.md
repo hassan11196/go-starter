@@ -51,3 +51,4 @@ A Go workspace must have three sub-directories.
 
  - [https://medium.com/rungo/working-in-go-workspace-3b0576e0534a](https://medium.com/rungo/working-in-go-workspace-3b0576e0534a)
  - [https://gobyexample.com/](https://gobyexample.com/)
+ - [https://awesome-go.com/](https://awesome-go.com/)
